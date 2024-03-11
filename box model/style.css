@@ -1,0 +1,32 @@
+#hello{
+    text-align: center;
+    font-size: 35px;
+    height: 100px;
+    width: 100px;
+    /* padding: 50px;
+     */
+     /* padding-left: 25px;
+     padding-right: 25px; */
+    padding: 50px;
+    margin: 50px;
+    text-transform: capitalize;
+    background-color: aquamarine;
+    /* border-width: 2px;
+    border-style: solid;
+    border-color: rgb(16, 72, 178); */
+    border: 2px solid rgb(16, 72, 178);
+    text-align: center;
+    border-radius: 5px;
+
+}
+
+
+#ram{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    /* border: 2px solid lightgreen; */
+    border-radius: 50%;
+    text-align: center;
+    margin-left: 50px;
+}
